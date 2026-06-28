@@ -48,8 +48,9 @@ javac HotelSystem.java
 ```bash
 java HotelSystem
 ```
-<img width="808" height="1015" alt="hotel" src="https://github.com/user-attachments/assets/a32d85fc-6e90-4169-9054-6fe1438578c9" />
+
 <img width="802" height="971" alt="hotel1" src="https://github.com/user-attachments/assets/eb8e5ad9-a94c-4f0d-aac0-5b7a4c25ea5d" />
+<img width="808" height="1015" alt="hotel" src="https://github.com/user-attachments/assets/a32d85fc-6e90-4169-9054-6fe1438578c9" />
 
 
 ## Menu
